@@ -1,7 +1,6 @@
 ---
 title: "Welcome to my blog"
 date: 2020-06-09
----
 
 title: "Welcome to my blog"
 author: Lexi Roshkovan
@@ -15,3 +14,4 @@ github_username:  lroshkovan # DO NOT include the @ character, or else the build
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
