@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+My name is Lexi Roshkovan and this is my project from AP Computer Science Principles!
